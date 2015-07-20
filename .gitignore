@@ -1,0 +1,8 @@
+#GitIgnore file for this project (i'm running on linux platform so ignore all ~temp files)
+
+~*.*
+*.txt
+*.o
+
+archivos
+
